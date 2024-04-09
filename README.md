@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-BLANCO BOT Multi Device is a whatsapp bot created by <a href="https://github.com/BENNYBLANCO9116" target="_blank">BLANCO</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+BLANCO BOT Multi Device is a whatsapp bot created by <a href="https://github.com/Bennyblanco9116" target="_blank">BLANCO</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 
